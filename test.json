@@ -1,0 +1,1805 @@
+{
+    "shoes": {
+        "nike": [
+            {
+                "id": "1",
+                "name": "Air Force 1",
+                "img": "air_force_1.png",
+                "similar_images": [
+                    "air_force_1_white.png",
+                    "air_force_1_black.png",
+                    "air_force_1_low.png",
+                    "air_force_1_mid.png",
+                    "air_force_1_shadow.png"
+                ],
+                "price": 1350,
+                "detail": "Comfortable, durable and timeless: it's not number 1 for nothing. The cult design of the 80s, with several original details. A pleasure on the field as well as in everyday life.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Blue",
+                    "Green"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Leather",
+                    "Synthetic",
+                    "Canvas"
+                ],
+                "features": [
+                    "Air cushioning",
+                    "Durable outsole",
+                    "Lace-up closure"
+                ]
+            },
+            {
+                "id": "2",
+                "name": "Nike Dunk Low",
+                "img": "nike_dunk_low.png",
+                "similar_images": [
+                    "nike_dunk_low_white.png",
+                    "nike_dunk_low_black.png",
+                    "nike_dunk_low_red.png",
+                    "nike_dunk_low_blue.png"
+                ],
+                "price": 1500,
+                "detail": "A low-profile sneaker with a classic aesthetic, perfect for casual wear and versatile styling.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Blue",
+                    "Yellow"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Leather",
+                    "Synthetic"
+                ],
+                "features": [
+                    "Padded collar",
+                    "Rubber outsole",
+                    "Classic design"
+                ]
+            },
+            {
+                "id": "3",
+                "name": "Nike Air Max 97",
+                "img": "nike_air_max_97.png",
+                "similar_images": [
+                    "nike_air_max_97_white.png",
+                    "nike_air_max_97_black.png",
+                    "nike_air_max_97_silver.png",
+                    "nike_air_max_97_gold.png"
+                ],
+                "price": 1800,
+                "detail": "With its ripple-inspired design and full-length Max Air unit, this sneaker offers unmatched comfort and iconic style.",
+                "love": false,
+                "colors": [
+                    "Silver",
+                    "Gold",
+                    "White",
+                    "Black"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "materials": [
+                    "Synthetic",
+                    "Mesh"
+                ],
+                "features": [
+                    "Max Air cushioning",
+                    "Reflective elements",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "4",
+                "name": "Nike Blazer Mid '77",
+                "img": "nike_blazer_mid_77.png",
+                "similar_images": [
+                    "nike_blazer_mid_77_white.png",
+                    "nike_blazer_mid_77_black.png",
+                    "nike_blazer_mid_77_vintage.png",
+                    "nike_blazer_mid_77_red.png"
+                ],
+                "price": 1400,
+                "detail": "A vintage-inspired sneaker with a modern twist, combining style and comfort for everyday wear.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Green"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Leather",
+                    "Suede"
+                ],
+                "features": [
+                    "High-top design",
+                    "Vintage styling",
+                    "Durable sole"
+                ]
+            },
+            {
+                "id": "5",
+                "name": "Nike React Infinity Run",
+                "img": "nike_react_infinity_run.png",
+                "similar_images": [
+                    "nike_react_infinity_run_white.png",
+                    "nike_react_infinity_run_black.png",
+                    "nike_react_infinity_run_blue.png"
+                ],
+                "price": 1600,
+                "detail": "Designed for runners looking for maximum support and comfort, the React Infinity Run keeps you going mile after mile.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Blue",
+                    "Green"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Flyknit",
+                    "Foam"
+                ],
+                "features": [
+                    "React foam cushioning",
+                    "Supportive design",
+                    "Breathable upper"
+                ]
+            },
+            {
+                "id": "6",
+                "name": "Nike Pegasus Trail 3",
+                "img": "nike_pegasus_trail_3.png",
+                "similar_images": [
+                    "nike_pegasus_trail_3_gray.png",
+                    "nike_pegasus_trail_3_black.png",
+                    "nike_pegasus_trail_3_red.png"
+                ],
+                "price": 1450,
+                "detail": "Take your run off-road with the Pegasus Trail 3, offering exceptional grip and cushioning for rugged terrain.",
+                "love": true,
+                "colors": [
+                    "Gray",
+                    "Black",
+                    "Red",
+                    "Blue"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Rubber"
+                ],
+                "features": [
+                    "Trail-specific outsole",
+                    "Dynamic fit",
+                    "Water-resistant upper"
+                ]
+            },
+            {
+                "id": "7",
+                "name": "Nike Zoom Freak 4",
+                "img": "nike_zoom_freak_4.png",
+                "similar_images": [
+                    "nike_zoom_freak_4_white.png",
+                    "nike_zoom_freak_4_black.png",
+                    "nike_zoom_freak_4_green.png"
+                ],
+                "price": 1700,
+                "detail": "Giannis Antetokounmpo's signature sneaker, designed for explosive play on the court.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Green",
+                    "Orange"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "materials": [
+                    "Synthetic",
+                    "Mesh"
+                ],
+                "features": [
+                    "Zoom Air cushioning",
+                    "Supportive fit",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "8",
+                "name": "Nike Free RN Flyknit 5.0",
+                "img": "nike_free_rn_flyknit_5_0.png",
+                "similar_images": [
+                    "nike_free_rn_flyknit_5_0_white.png",
+                    "nike_free_rn_flyknit_5_0_black.png",
+                    "nike_free_rn_flyknit_5_0_red.png"
+                ],
+                "price": 1300,
+                "detail": "Lightweight and flexible, the Nike Free RN Flyknit 5.0 is perfect for short runs and everyday wear.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Gray"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Flyknit",
+                    "Foam"
+                ],
+                "features": [
+                    "Barefoot-like flexibility",
+                    "Breathable upper",
+                    "Minimalist design"
+                ]
+            }
+        ],
+        "adidas": [
+            {
+                "id": "1",
+                "name": "Ultraboost",
+                "img": "adidas_ultraboost.png",
+                "similar_images": [
+                    "ultraboost_dna.png",
+                    "ultraboost_20.png",
+                    "ultraboost_all_terrain.png"
+                ],
+                "price": 1800,
+                "detail": "Experience the ultimate in comfort and performance with the adidas Ultraboost. Featuring a responsive Boost midsole and a supportive Primeknit upper, it's perfect for running and everyday wear.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Grey",
+                    "Blue",
+                    "Red"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Primeknit",
+                    "Boost foam",
+                    "Rubber outsole"
+                ],
+                "features": [
+                    "Responsive cushioning",
+                    "Supportive fit",
+                    "Energy return"
+                ]
+            },
+            {
+                "id": "2",
+                "name": "Adidas NMD_R1",
+                "img": "adidas_nmd_r1.png",
+                "similar_images": [
+                    "nmd_r1_black.png",
+                    "nmd_r1_white.png",
+                    "nmd_r1_red.png"
+                ],
+                "price": 1600,
+                "detail": "A street-ready sneaker with a sleek design and Boost cushioning, combining modern aesthetics with comfort.",
+                "love": true,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Red",
+                    "Blue",
+                    "Grey"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Boost foam",
+                    "Rubber outsole"
+                ],
+                "features": [
+                    "Lightweight design",
+                    "Sock-like fit",
+                    "Energy-efficient sole"
+                ]
+            },
+            {
+                "id": "3",
+                "name": "Adidas Superstar",
+                "img": "adidas_superstar.png",
+                "similar_images": [
+                    "superstar_white.png",
+                    "superstar_black.png",
+                    "superstar_gold.png"
+                ],
+                "price": 1200,
+                "detail": "An iconic sneaker with a classic shell-toe design, perfect for timeless street style.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Gold",
+                    "Silver"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Leather",
+                    "Rubber"
+                ],
+                "features": [
+                    "Shell-toe design",
+                    "Rubber outsole",
+                    "Classic style"
+                ]
+            },
+            {
+                "id": "4",
+                "name": "Adidas Yeezy Boost 350",
+                "img": "adidas_yeezy_boost_350.png",
+                "similar_images": [
+                    "yeezy_boost_350_black.png",
+                    "yeezy_boost_350_white.png",
+                    "yeezy_boost_350_tan.png"
+                ],
+                "price": 2200,
+                "detail": "Revolutionary comfort meets cutting-edge style in this modern sneaker with the signature Boost sole.",
+                "love": true,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Tan",
+                    "Grey"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "materials": [
+                    "Primeknit",
+                    "Boost foam"
+                ],
+                "features": [
+                    "Boost cushioning",
+                    "Sock-like fit",
+                    "Breathable upper"
+                ]
+            },
+            {
+                "id": "5",
+                "name": "Adidas Forum Low",
+                "img": "adidas_forum_low.png",
+                "similar_images": [
+                    "forum_low_white.png",
+                    "forum_low_black.png",
+                    "forum_low_red.png"
+                ],
+                "price": 1400,
+                "detail": "A retro basketball sneaker with modern updates, perfect for casual wear and versatile styling.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Blue"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Leather",
+                    "Synthetic",
+                    "Rubber"
+                ],
+                "features": [
+                    "Secure strap closure",
+                    "Durable outsole",
+                    "Retro design"
+                ]
+            },
+            {
+                "id": "6",
+                "name": "Adidas ZX 2K Boost",
+                "img": "adidas_zx_2k_boost.png",
+                "similar_images": [
+                    "zx_2k_boost_black.png",
+                    "zx_2k_boost_white.png",
+                    "zx_2k_boost_blue.png"
+                ],
+                "price": 1700,
+                "detail": "A futuristic sneaker combining ZX heritage with Boost comfort for all-day wear.",
+                "love": true,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Blue",
+                    "Red"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Boost foam",
+                    "Rubber"
+                ],
+                "features": [
+                    "Futuristic design",
+                    "Comfortable cushioning",
+                    "Breathable upper"
+                ]
+            },
+            {
+                "id": "7",
+                "name": "Adidas Terrex Free Hiker",
+                "img": "adidas_terrex_free_hiker.png",
+                "similar_images": [
+                    "terrex_free_hiker_black.png",
+                    "terrex_free_hiker_white.png",
+                    "terrex_free_hiker_blue.png"
+                ],
+                "price": 2000,
+                "detail": "Perfect for outdoor adventures, offering a lightweight and responsive feel with rugged durability.",
+                "love": false,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Blue",
+                    "Brown"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12",
+                    "13"
+                ],
+                "materials": [
+                    "Primeknit",
+                    "Boost foam",
+                    "Rubber"
+                ],
+                "features": [
+                    "Trail-specific sole",
+                    "Ankle support",
+                    "Water-resistant upper"
+                ]
+            },
+            {
+                "id": "8",
+                "name": "Adidas Gazelle",
+                "img": "adidas_gazelle.png",
+                "similar_images": [
+                    "gazelle_black.png",
+                    "gazelle_white.png",
+                    "gazelle_red.png"
+                ],
+                "price": 1000,
+                "detail": "A sleek and stylish low-top sneaker with a vintage-inspired design.",
+                "love": true,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Red",
+                    "Green"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Suede",
+                    "Rubber"
+                ],
+                "features": [
+                    "Low-profile design",
+                    "Durable sole",
+                    "Classic style"
+                ]
+            }
+        ],
+        "puma": [
+            {
+                "id": "1",
+                "name": "Puma RS-X",
+                "img": "puma_rsx.png",
+                "similar_images": [
+                    "rsx_white.png",
+                    "rsx_black.png",
+                    "rsx_multicolor.png"
+                ],
+                "price": 1200,
+                "detail": "The RS-X brings boldness to your sneaker game. Featuring exaggerated proportions and vibrant colorways, it's a perfect blend of retro and modern.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Blue",
+                    "Yellow"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Synthetic",
+                    "Rubber"
+                ],
+                "features": [
+                    "Cushioned midsole",
+                    "Vibrant design",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "2",
+                "name": "Puma Suede Classic",
+                "img": "puma_suede_classic.png",
+                "similar_images": [
+                    "suede_classic_black.png",
+                    "suede_classic_red.png",
+                    "suede_classic_blue.png"
+                ],
+                "price": 1000,
+                "detail": "A timeless classic, the Puma Suede combines premium materials with a sleek design for everyday style.",
+                "love": true,
+                "colors": [
+                    "Black",
+                    "Red",
+                    "Blue",
+                    "Grey",
+                    "Green"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Suede",
+                    "Rubber"
+                ],
+                "features": [
+                    "Low-profile design",
+                    "Durable sole",
+                    "Classic look"
+                ]
+            },
+            {
+                "id": "3",
+                "name": "Puma Future Rider",
+                "img": "puma_future_rider.png",
+                "similar_images": [
+                    "future_rider_black.png",
+                    "future_rider_white.png",
+                    "future_rider_pink.png"
+                ],
+                "price": 1100,
+                "detail": "Lightweight and stylish, the Future Rider blends retro aesthetics with modern comfort for casual wear.",
+                "love": false,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Pink",
+                    "Blue"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Synthetic",
+                    "Rubber"
+                ],
+                "features": [
+                    "Lightweight design",
+                    "Retro style",
+                    "Cushioned sole"
+                ]
+            },
+            {
+                "id": "4",
+                "name": "Puma Cali",
+                "img": "puma_cali.png",
+                "similar_images": [
+                    "cali_white.png",
+                    "cali_black.png",
+                    "cali_pink.png"
+                ],
+                "price": 1150,
+                "detail": "A California-inspired sneaker with a laid-back vibe, perfect for casual outfits.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Pink",
+                    "Beige"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "materials": [
+                    "Leather",
+                    "Rubber"
+                ],
+                "features": [
+                    "Platform sole",
+                    "Comfortable fit",
+                    "Stylish design"
+                ]
+            },
+            {
+                "id": "5",
+                "name": "Puma Ignite Flash",
+                "img": "puma_ignite_flash.png",
+                "similar_images": [
+                    "ignite_flash_black.png",
+                    "ignite_flash_white.png",
+                    "ignite_flash_red.png"
+                ],
+                "price": 1250,
+                "detail": "Designed for runners, the Ignite Flash delivers responsive cushioning and a secure fit for high performance.",
+                "love": false,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Red",
+                    "Blue"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Foam",
+                    "Rubber"
+                ],
+                "features": [
+                    "Energy return cushioning",
+                    "Breathable upper",
+                    "Secure lacing"
+                ]
+            },
+            {
+                "id": "6",
+                "name": "Puma Cell Alien",
+                "img": "puma_cell_alien.png",
+                "similar_images": [
+                    "cell_alien_white.png",
+                    "cell_alien_black.png",
+                    "cell_alien_green.png"
+                ],
+                "price": 1300,
+                "detail": "Futuristic and bold, the Cell Alien features visible CELL cushioning for standout style and comfort.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Green",
+                    "Yellow"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Synthetic",
+                    "Rubber"
+                ],
+                "features": [
+                    "CELL cushioning",
+                    "Retro-inspired design",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "7",
+                "name": "Puma RS-Fast",
+                "img": "puma_rs_fast.png",
+                "similar_images": [
+                    "rs_fast_white.png",
+                    "rs_fast_black.png",
+                    "rs_fast_multicolor.png"
+                ],
+                "price": 1350,
+                "detail": "Fast-forward your style with the RS-Fast, blending retro running aesthetics with a modern edge.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Multicolor",
+                    "Blue"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Foam",
+                    "Rubber"
+                ],
+                "features": [
+                    "Comfortable cushioning",
+                    "Bold design",
+                    "Lightweight construction"
+                ]
+            },
+            {
+                "id": "8",
+                "name": "Puma Smash V2",
+                "img": "puma_smash_v2.png",
+                "similar_images": [
+                    "smash_v2_white.png",
+                    "smash_v2_black.png",
+                    "smash_v2_red.png"
+                ],
+                "price": 950,
+                "detail": "A versatile sneaker with a clean design, perfect for everyday wear and casual occasions.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Grey"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "materials": [
+                    "Leather",
+                    "Rubber"
+                ],
+                "features": [
+                    "Classic style",
+                    "Comfortable fit",
+                    "Durable outsole"
+                ]
+            }
+        ],
+        "converse": [
+            {
+                "id": "1",
+                "name": "Chuck Taylor All Star",
+                "img": "converse_all_star.png",
+                "similar_images": [
+                    "all_star_white.png",
+                    "all_star_black.png",
+                    "all_star_red.png"
+                ],
+                "price": 900,
+                "detail": "The iconic Chuck Taylor All Star is a classic canvas sneaker that's perfect for any casual outfit. Timeless and versatile.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Blue"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Canvas",
+                    "Rubber"
+                ],
+                "features": [
+                    "High-top design",
+                    "Iconic logo patch",
+                    "Rubber toe cap"
+                ]
+            },
+            {
+                "id": "2",
+                "name": "Converse One Star",
+                "img": "converse_one_star.png",
+                "similar_images": [
+                    "one_star_black.png",
+                    "one_star_white.png",
+                    "one_star_yellow.png"
+                ],
+                "price": 850,
+                "detail": "The Converse One Star brings a retro vibe with its signature star logo and low-top design, perfect for casual wear.",
+                "love": true,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Yellow",
+                    "Green"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Suede",
+                    "Rubber"
+                ],
+                "features": [
+                    "Low-top design",
+                    "Star logo detail",
+                    "Comfortable cushioning"
+                ]
+            },
+            {
+                "id": "3",
+                "name": "Converse Chuck 70",
+                "img": "converse_chuck_70.png",
+                "similar_images": [
+                    "chuck_70_white.png",
+                    "chuck_70_black.png",
+                    "chuck_70_beige.png"
+                ],
+                "price": 1100,
+                "detail": "A premium take on the classic Chuck Taylor, the Chuck 70 features enhanced materials and timeless style.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Beige",
+                    "Blue"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Canvas",
+                    "Rubber"
+                ],
+                "features": [
+                    "Premium canvas",
+                    "Enhanced cushioning",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "4",
+                "name": "Converse Run Star Hike",
+                "img": "converse_run_star_hike.png",
+                "similar_images": [
+                    "run_star_hike_white.png",
+                    "run_star_hike_black.png",
+                    "run_star_hike_pink.png"
+                ],
+                "price": 1300,
+                "detail": "A bold and modern twist on the classic sneaker, featuring a chunky platform sole for elevated style.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Pink",
+                    "Yellow"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Canvas",
+                    "Rubber"
+                ],
+                "features": [
+                    "Platform sole",
+                    "Chunky design",
+                    "Durable traction"
+                ]
+            },
+            {
+                "id": "5",
+                "name": "Converse Jack Purcell",
+                "img": "converse_jack_purcell.png",
+                "similar_images": [
+                    "jack_purcell_white.png",
+                    "jack_purcell_black.png",
+                    "jack_purcell_navy.png"
+                ],
+                "price": 950,
+                "detail": "Simple yet sophisticated, the Converse Jack Purcell delivers understated style and comfort.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Navy",
+                    "Grey"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "materials": [
+                    "Canvas",
+                    "Rubber"
+                ],
+                "features": [
+                    "Signature smile toe",
+                    "Low-profile design",
+                    "Comfortable fit"
+                ]
+            },
+            {
+                "id": "6",
+                "name": "Converse Weapon CX",
+                "img": "converse_weapon_cx.png",
+                "similar_images": [
+                    "weapon_cx_white.png",
+                    "weapon_cx_black.png",
+                    "weapon_cx_blue.png"
+                ],
+                "price": 1400,
+                "detail": "The Converse Weapon CX combines retro basketball-inspired design with modern comfort and bold aesthetics.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Blue",
+                    "Green"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Leather",
+                    "Rubber"
+                ],
+                "features": [
+                    "Basketball-inspired",
+                    "Modern cushioning",
+                    "Durable construction"
+                ]
+            },
+            {
+                "id": "7",
+                "name": "Converse Chuck Taylor All Star Lift",
+                "img": "converse_all_star_lift.png",
+                "similar_images": [
+                    "all_star_lift_white.png",
+                    "all_star_lift_black.png",
+                    "all_star_lift_red.png"
+                ],
+                "price": 1050,
+                "detail": "A platform version of the classic Chuck Taylor, offering a boost in height and style.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Pink"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "materials": [
+                    "Canvas",
+                    "Rubber"
+                ],
+                "features": [
+                    "Platform sole",
+                    "Iconic design",
+                    "Comfortable fit"
+                ]
+            },
+            {
+                "id": "8",
+                "name": "Converse All Star Pro BB",
+                "img": "converse_all_star_pro_bb.png",
+                "similar_images": [
+                    "pro_bb_white.png",
+                    "pro_bb_black.png",
+                    "pro_bb_orange.png"
+                ],
+                "price": 1500,
+                "detail": "A high-performance basketball sneaker that combines classic style with cutting-edge technology.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Orange",
+                    "Grey"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Textile",
+                    "Rubber"
+                ],
+                "features": [
+                    "Lightweight design",
+                    "Responsive cushioning",
+                    "Durable outsole"
+                ]
+            }
+        ],
+        "reebok": [
+            {
+                "id": "1",
+                "name": "Reebok Classic Leather",
+                "img": "reebok_classic_leather.png",
+                "similar_images": [
+                    "classic_leather_white.png",
+                    "classic_leather_black.png",
+                    "classic_leather_grey.png"
+                ],
+                "price": 1100,
+                "detail": "The Reebok Classic Leather combines style with functionality. Its soft leather upper offers comfort, while the EVA midsole provides lightweight cushioning.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Grey"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Leather",
+                    "EVA foam",
+                    "Rubber"
+                ],
+                "features": [
+                    "Comfortable fit",
+                    "Classic design",
+                    "Durable sole"
+                ]
+            },
+            {
+                "id": "2",
+                "name": "Reebok Club C 85",
+                "img": "reebok_club_c_85.png",
+                "similar_images": [
+                    "club_c_85_white.png",
+                    "club_c_85_black.png",
+                    "club_c_85_green.png"
+                ],
+                "price": 1200,
+                "detail": "A retro-inspired sneaker, the Club C 85 combines vintage styling with modern comfort for a laid-back look.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Green",
+                    "Beige"
+                ],
+                "sizes": [
+                    "5",
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Leather",
+                    "Rubber"
+                ],
+                "features": [
+                    "Soft leather",
+                    "Vintage design",
+                    "Comfortable cushioning"
+                ]
+            },
+            {
+                "id": "3",
+                "name": "Reebok Nano X",
+                "img": "reebok_nano_x.png",
+                "similar_images": [
+                    "nano_x_black.png",
+                    "nano_x_white.png",
+                    "nano_x_blue.png"
+                ],
+                "price": 1300,
+                "detail": "The Reebok Nano X is designed for performance. With a stable base and responsive cushioning, it's perfect for cross-training and high-intensity workouts.",
+                "love": false,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Blue",
+                    "Red"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Rubber",
+                    "EVA foam"
+                ],
+                "features": [
+                    "Stable fit",
+                    "Responsive cushioning",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "4",
+                "name": "Reebok Question Mid",
+                "img": "reebok_question_mid.png",
+                "similar_images": [
+                    "question_mid_white.png",
+                    "question_mid_black.png",
+                    "question_mid_red.png"
+                ],
+                "price": 1500,
+                "detail": "A classic basketball shoe, the Reebok Question Mid features a signature hexalite cushioning system and an iconic design.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Blue"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Leather",
+                    "Rubber"
+                ],
+                "features": [
+                    "Hexalite cushioning",
+                    "High-top design",
+                    "Classic basketball style"
+                ]
+            },
+            {
+                "id": "5",
+                "name": "Reebok Zig Kinetica",
+                "img": "reebok_zig_kinetica.png",
+                "similar_images": [
+                    "zig_kinetica_white.png",
+                    "zig_kinetica_black.png",
+                    "zig_kinetica_blue.png"
+                ],
+                "price": 1400,
+                "detail": "The Zig Kinetica is designed for both style and comfort. Featuring a unique zig-zag sole and innovative cushioning, it's built to stand out.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Blue",
+                    "Orange"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Rubber",
+                    "EVA foam"
+                ],
+                "features": [
+                    "Zig-zag sole",
+                    "Responsive cushioning",
+                    "Bold design"
+                ]
+            },
+            {
+                "id": "6",
+                "name": "Reebok Instapump Fury",
+                "img": "reebok_instapump_fury.png",
+                "similar_images": [
+                    "instapump_fury_white.png",
+                    "instapump_fury_black.png",
+                    "instapump_fury_red.png"
+                ],
+                "price": 1600,
+                "detail": "The Reebok Instapump Fury is a futuristic sneaker featuring a unique laceless design and pump technology for a customizable fit.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Yellow"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Synthetic",
+                    "Rubber"
+                ],
+                "features": [
+                    "Pump technology",
+                    "Laceless design",
+                    "Customizable fit"
+                ]
+            },
+            {
+                "id": "7",
+                "name": "Reebok Classic Nylon",
+                "img": "reebok_classic_nylon.png",
+                "similar_images": [
+                    "classic_nylon_black.png",
+                    "classic_nylon_white.png",
+                    "classic_nylon_blue.png"
+                ],
+                "price": 950,
+                "detail": "The Reebok Classic Nylon offers a sleek, retro look with a breathable nylon upper and a cushioned midsole for comfort.",
+                "love": false,
+                "colors": [
+                    "Black",
+                    "White",
+                    "Blue",
+                    "Red"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Nylon",
+                    "Rubber",
+                    "EVA foam"
+                ],
+                "features": [
+                    "Breathable nylon",
+                    "Retro design",
+                    "Comfortable cushioning"
+                ]
+            },
+            {
+                "id": "8",
+                "name": "Reebok FuryLite",
+                "img": "reebok_furylite.png",
+                "similar_images": [
+                    "furylite_white.png",
+                    "furylite_black.png",
+                    "furylite_blue.png"
+                ],
+                "price": 1000,
+                "detail": "The Reebok FuryLite is a lightweight sneaker that provides excellent flexibility and comfort, perfect for an active lifestyle.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Blue",
+                    "Purple"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Rubber"
+                ],
+                "features": [
+                    "Lightweight design",
+                    "Flexible fit",
+                    "Comfortable cushioning"
+                ]
+            }
+        ],
+        "new_balance": [
+            {
+                "id": "1",
+                "name": "New Balance 574",
+                "img": "new_balance_574.png",
+                "similar_images": [
+                    "574_grey.png",
+                    "574_black.png",
+                    "574_navy.png"
+                ],
+                "price": 1300,
+                "detail": "The New Balance 574 is a classic sneaker that delivers both style and comfort. Its ENCAP midsole technology offers excellent support and durability.",
+                "love": false,
+                "colors": [
+                    "Grey",
+                    "Black",
+                    "Navy",
+                    "Red"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Suede",
+                    "Mesh",
+                    "Rubber"
+                ],
+                "features": [
+                    "ENCAP cushioning",
+                    "Retro design",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "2",
+                "name": "New Balance 990v5",
+                "img": "new_balance_990v5.png",
+                "similar_images": [
+                    "990v5_white.png",
+                    "990v5_grey.png",
+                    "990v5_black.png"
+                ],
+                "price": 1800,
+                "detail": "The New Balance 990v5 is a high-performance sneaker that combines luxury, durability, and comfort with premium materials and advanced cushioning.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Grey",
+                    "Black",
+                    "Navy"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Leather",
+                    "Rubber"
+                ],
+                "features": [
+                    "Premium cushioning",
+                    "Durable design",
+                    "Breathable mesh"
+                ]
+            },
+            {
+                "id": "3",
+                "name": "New Balance 1080v11",
+                "img": "new_balance_1080v11.png",
+                "similar_images": [
+                    "1080v11_blue.png",
+                    "1080v11_black.png",
+                    "1080v11_red.png"
+                ],
+                "price": 1600,
+                "detail": "The New Balance 1080v11 is engineered for long-distance runners, offering superb cushioning and support with Fresh Foam technology.",
+                "love": false,
+                "colors": [
+                    "Blue",
+                    "Black",
+                    "Red",
+                    "Grey"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Synthetic",
+                    "Rubber"
+                ],
+                "features": [
+                    "Fresh Foam cushioning",
+                    "Breathable mesh upper",
+                    "Lightweight design"
+                ]
+            },
+            {
+                "id": "4",
+                "name": "New Balance 327",
+                "img": "new_balance_327.png",
+                "similar_images": [
+                    "327_white.png",
+                    "327_black.png",
+                    "327_red.png"
+                ],
+                "price": 1400,
+                "detail": "The New Balance 327 brings a retro-inspired silhouette with modern comfort. Featuring a unique design with a chunky sole, it stands out in both style and performance.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Red",
+                    "Blue"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Suede",
+                    "Mesh",
+                    "Rubber"
+                ],
+                "features": [
+                    "Retro design",
+                    "Lightweight cushioning",
+                    "Unique sole design"
+                ]
+            },
+            {
+                "id": "5",
+                "name": "New Balance Fresh Foam Hierro v6",
+                "img": "new_balance_fresh_foam_hierro_v6.png",
+                "similar_images": [
+                    "fresh_foam_hierro_v6_green.png",
+                    "fresh_foam_hierro_v6_blue.png",
+                    "fresh_foam_hierro_v6_black.png"
+                ],
+                "price": 1700,
+                "detail": "The New Balance Fresh Foam Hierro v6 is designed for trail runners, featuring rugged durability and Fresh Foam cushioning for a comfortable ride on any terrain.",
+                "love": false,
+                "colors": [
+                    "Green",
+                    "Blue",
+                    "Black",
+                    "Grey"
+                ],
+                "sizes": [
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11",
+                    "12"
+                ],
+                "materials": [
+                    "Synthetic",
+                    "Mesh",
+                    "Rubber"
+                ],
+                "features": [
+                    "Fresh Foam cushioning",
+                    "Trail-ready durability",
+                    "Vibram outsole"
+                ]
+            },
+            {
+                "id": "6",
+                "name": "New Balance 5740",
+                "img": "new_balance_5740.png",
+                "similar_images": [
+                    "5740_white.png",
+                    "5740_black.png",
+                    "5740_grey.png"
+                ],
+                "price": 1500,
+                "detail": "The New Balance 5740 is a modern twist on the classic 574, offering enhanced comfort and a bold new look that makes a statement.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Grey",
+                    "Red"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Suede",
+                    "Mesh",
+                    "Rubber"
+                ],
+                "features": [
+                    "Updated classic design",
+                    "Cushioned midsole",
+                    "Durable outsole"
+                ]
+            },
+            {
+                "id": "7",
+                "name": "New Balance 327 Sport",
+                "img": "new_balance_327_sport.png",
+                "similar_images": [
+                    "327_sport_white.png",
+                    "327_sport_black.png",
+                    "327_sport_blue.png"
+                ],
+                "price": 1450,
+                "detail": "The New Balance 327 Sport offers a sport-inspired design with a lightweight and breathable mesh upper, offering all-day comfort and versatility.",
+                "love": false,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Blue",
+                    "Grey"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Mesh",
+                    "Synthetic",
+                    "Rubber"
+                ],
+                "features": [
+                    "Sporty design",
+                    "Breathable mesh",
+                    "Flexible fit"
+                ]
+            },
+            {
+                "id": "8",
+                "name": "New Balance 1400",
+                "img": "new_balance_1400.png",
+                "similar_images": [
+                    "1400_white.png",
+                    "1400_black.png",
+                    "1400_blue.png"
+                ],
+                "price": 1100,
+                "detail": "The New Balance 1400 is a sleek and stylish sneaker, offering a minimalistic design with premium cushioning for day-long comfort.",
+                "love": true,
+                "colors": [
+                    "White",
+                    "Black",
+                    "Blue",
+                    "Grey"
+                ],
+                "sizes": [
+                    "6",
+                    "7",
+                    "8",
+                    "9",
+                    "10",
+                    "11"
+                ],
+                "materials": [
+                    "Suede",
+                    "Mesh",
+                    "Rubber"
+                ],
+                "features": [
+                    "Minimalist design",
+                    "Comfortable cushioning",
+                    "Durable sole"
+                ]
+            }
+        ]
+    }
+}
