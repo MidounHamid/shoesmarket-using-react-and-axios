@@ -1,0 +1,19 @@
+.carouselsContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh; 
+    background-color: #f0f0f0;
+  }
+  
+  .carousels {
+    max-width: 80%; 
+    width: 80%;
+  }
+  .cartSlider{
+    text-align: center;
+    background-color:#ffffff ;
+    margin: 20px;
+    border-radius: 10px;
+  }

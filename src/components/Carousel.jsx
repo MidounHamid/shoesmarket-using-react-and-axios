@@ -2,58 +2,23 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-// import Poste from "./Poste";
-// import Cart from "./Cart";
 import Cart1 from "./Cart1";
+import "../Css/Carousel1.css";
 
+const Carousel1 = ({ shoesList = [] }) => {
+  const categories = [...new Set(shoesList.map((shoes) => shoes.category))];
 
-// Custom Arrow Components
-// const NextArrow = (props) => {
-//   const { className, style, onClick } = props;
-//   return (
-//     <div
-//       className={className}
-//       style={{
-//         ...style,
-//         display: "block",
-//         background: "#007BFF",
-//         borderRadius: "50%",
-//       }}
-//       onClick={onClick}
-//     />
-//   );
-// };
-
-// const PrevArrow = (props) => {
-//   const { className, style, onClick } = props;
-//   return (
-//     <div
-//       className={className}
-//       style={{
-//         ...style,
-//         display: "block",
-//         background: "#007BFF",
-//         borderRadius: "50%",
-//       }}
-//       onClick={onClick}
-//     />
-//   );
-// };
-
-const Carousel = ({ shoesList = [] }) => {
   const settings = {
     dots: true,
     infinite: true,
     speed: 500,
     slidesToShow: 3,
     slidesToScroll: 1,
-    centerMode: true, // Enable center mode
-    centerPadding: "0", // No extra padding for the center slide
-    focusOnSelect: true, // Focus on the center slide when clicked
-    autoplay: true, // Enable autoplay
-    autoplaySpeed: 3000, // Autoplay interval in milliseconds
-    // nextArrow: <NextArrow />, // Custom next arrow
-    // prevArrow: <PrevArrow />, // Custom previous arrow
+    centerMode: true,
+    centerPadding: "0",
+    focusOnSelect: true,
+    autoplay: true,
+    autoplaySpeed: 3000,
     responsive: [
       {
         breakpoint: 1024,
@@ -80,20 +45,30 @@ const Carousel = ({ shoesList = [] }) => {
   };
 
   return (
-    <div
-      style={{ margin: "20px", padding: "20px", width: "60%", height: "50vw" }}
-    >
-      <Slider {...settings}>
-        {shoesList.map((shoes, index) => (
-          <div key={index} style={{ padding: "10px" }}>
-            {/* <Poste shoes={shoes} /> */}
-            {/* <Cart shoes={shoes} /> */}
-            <Cart1 shoes={shoes} />
+    <div className="carouselsContainer" >
+      <div className="carousels">
+      {categories.map((category) => {
+        const filteredShoes = shoesList.filter((shoes) => shoes.category === category);
+        return (
+          <div  className="cartSlider" key={category}>
+            <h2>{category}</h2>
+            <div>
+            <Slider {...settings}>
+              {filteredShoes.map((shoes) => (
+                <div key={shoes.id}>
+                  <Cart1 shoes={shoes} />
+                </div>
+              ))}
+            </Slider>
+            </div>
+            
           </div>
-        ))}
-      </Slider>
+        );
+      })}
+      </div>
+      
     </div>
   );
 };
 
-export default Carousel;
+export default Carousel1;

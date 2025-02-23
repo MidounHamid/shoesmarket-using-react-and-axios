@@ -3,6 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Cart1 from "./Cart1";
+import "../Css/Carousel1.css";
 
 const Carousel1 = ({ shoesList = [] }) => {
   const categories = [...new Set(shoesList.map((shoes) => shoes.category))];
@@ -44,11 +45,13 @@ const Carousel1 = ({ shoesList = [] }) => {
   };
 
   return (
-    <div style={styles.carouselsContainer}>
+    <div className="carouselsContainer" >
+      
+      <div className="carousels">
       {categories.map((category) => {
         const filteredShoes = shoesList.filter((shoes) => shoes.category === category);
         return (
-          <div key={category}>
+          <div  className="cartSlider" key={category}>
             <h2>{category}</h2>
             <Slider {...settings}>
               {filteredShoes.map((shoes) => (
@@ -57,21 +60,14 @@ const Carousel1 = ({ shoesList = [] }) => {
                 </div>
               ))}
             </Slider>
+            
           </div>
         );
       })}
+      </div>
+      
     </div>
   );
-};
-
-// Inline Styles
-const styles = {
-  carouselsContainer: {
-    margin: "20px",
-    padding: "20px",
-    width: "60%",
-    height: "50vw",
-  },
 };
 
 export default Carousel1;
